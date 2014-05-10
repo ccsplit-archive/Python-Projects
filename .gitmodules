@@ -1,0 +1,3 @@
+[submodule "Macresolve"]
+	path = Macresolve
+	url = github:ccsplit/Macresolve
