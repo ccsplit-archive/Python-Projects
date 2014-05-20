@@ -4,3 +4,6 @@
 [submodule "ViolentPython"]
 	path = ViolentPython
 	url = github:ccsplit/ViolentPython
+[submodule "GreyHatPython"]
+	path = GreyHatPython
+	url = github:ccsplit/GreyHatPython.git
