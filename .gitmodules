@@ -1,3 +1,6 @@
 [submodule "Macresolve"]
 	path = Macresolve
 	url = github:ccsplit/Macresolve
+[submodule "ViolentPython"]
+	path = ViolentPython
+	url = github:ccsplit/ViolentPython
